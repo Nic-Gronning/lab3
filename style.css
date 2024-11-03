@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+body { 
+      text-align: center; 
+      background-color: lightcyan; 
+      font-family: Script sans-serif;
+      margin: 12%;
+    }
+
+li { 
+      list-style-type: none; 
+      padding: 10px; 
+    }
